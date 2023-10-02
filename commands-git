@@ -1,3 +1,5 @@
 commande pour clone : git clone LIEN
 commande pour push : git add , git commit , git push
 commande pour pull : git pull
+commande pour créer une branche : git branch NOM
+commande pour switch de branche : git checkout BRANCHE
